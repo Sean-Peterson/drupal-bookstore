@@ -24,4 +24,3 @@ git clone https://github.com/Sean-Peterson/drupal-bookstore
 **Step 5**: Click on Import, choose file, and select drupal-bookstore/sites/db-backup/bookstore.sql
 **Step 6**: Start MAMP servers
 **Step 7**: In your web browser navigate to localhost:8888
- 
